@@ -22,7 +22,7 @@
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
     "redux-logger": "^3.0.6",
-    "redux-persist": "^5.4.0",
+    "redux-persist": "^5.10.0",
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1",
     "sjcl": "git+https://github.com/etesync/sjcl",
